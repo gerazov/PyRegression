@@ -10,7 +10,7 @@ The code is based on various other regression tutorials including:
 
 2. ["A Real Example: Logistic Regression" in Theano Tutorial](http://deeplearning.net/software/theano/tutorial/examples.html)
 
-3. ["Learning PyTorch with Examples" by Justin Johnson] (http://pytorch.org/tutorials/beginner/pytorch_with_examples.html)
+3. ["Learning PyTorch with Examples" by Justin Johnson](http://pytorch.org/tutorials/beginner/pytorch_with_examples.html)
 
 4. [PyTorch-Tutorial : 301_regression by Morvan Zhou](https://github.com/MorvanZhou/PyTorch-Tutorial/blob/master/tutorial-contents/301_regression.py) -  cool plotting take from here
  
